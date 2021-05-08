@@ -7,7 +7,7 @@ from telethon.tl.functions.account import UpdateUsernameRequest
 from telethon.tl.functions.channels import GetAdminedPublicChannelsRequest 
 from telethon.tl.functions.photos import DeletePhotosRequest, GetUserPhotosRequest 
 from telethon.tl.types import Channel, Chat, InputPhoto, User 
-from telethon.tl.functions.channels import JoinChannelRequest 
+from telethon.tl.fun   ctions.channels import JoinChannelRequest 
 from telethon.tl.functions.channels import LeaveChannelRequest 
 import asyncio 
 import base64 
